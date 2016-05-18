@@ -1,2 +1,0 @@
-# hw
-python_hw
